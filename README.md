@@ -10,7 +10,7 @@
 
 ### PASSO A PASSO
 
-1.  Depois de baixado a imagem `(.dmg)`, de dois clicks e a imagem abrirá automaticamente uma janela.
+1.  Depois de feito o download da imagem `.dmg`, de dois clicks e a imagem abrirá automaticamente uma janela.
 
 ![Screenshot 2023-06-22 at 21 20 01](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/f1096d3f-7d9d-4133-b691-70c5c78f7312)
 
