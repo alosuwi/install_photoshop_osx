@@ -14,6 +14,8 @@
 
 ![Screenshot 2023-06-22 at 21 20 01](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/f1096d3f-7d9d-4133-b691-70c5c78f7312)
 
+![Screenshot 2023-06-23 at 18 48 46](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/ba9117f9-c83a-47b5-8dae-b83ddae1ad71)
+
 2. Em seguida escolha uma pasta de destino e copie as pastas `INSTALLER` e `PATCH` para ela.
 
 ![Screenshot 2023-06-22 at 21 31 07](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/0cae499d-141b-4587-b0d9-efa22c1a2597)
