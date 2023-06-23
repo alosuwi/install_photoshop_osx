@@ -42,7 +42,7 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 22 44 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/e55f1a73-430b-400d-97fe-7d9923fb1ab8)
 
-9. Agora abra o local onde você copiou a pasta `INSTALLER` e `PATCH`, abra a pasta `INSTALLER` e arraste o `install` para o terminal.
+9. Agora abra o local onde você copiou a pasta `INSTALLER` e `PATCH`, abra a pasta `INSTALLER` e arraste o `install` para o terminal, junto com o comando que digitou no passo anterior. Entâo você da um enter e digite sua senha.
 
 ![Screenshot 2023-06-22 at 22 50 30](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/1190933f-3271-4147-a7fe-30b590b2aba5)
 
@@ -51,4 +51,26 @@ sudo xattr -cr
 ![Screenshot 2023-06-22 at 22 46 35](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/c973ea56-44d8-4468-946d-5ede20f7f613)
 
 ![Screenshot 2023-06-22 at 22 49 00](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/f42cb18e-41f2-41b2-a66a-c46d969fc39f)
+
+10. Em seguida, você executa o `install` e ele pedirá sua senha de `ADM` novamente.
+
+![Screenshot 2023-06-22 at 22 54 17](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/19079074-56c4-4ad9-a9dc-b296b7c5c3fa)
+
+11. Depois de autorizado, aparecerá a seguinte tela.
+
+![Screenshot 2023-06-22 at 23 00 50](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/231ac59a-56b7-4252-b53c-a986bdbdc364)
+
+12. Em seguida, você seleciona seu idioma e click em continue. Nesse momento eu desliguei minha internet.
+
+![Screenshot 2023-06-22 at 22 54 43](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/38441fd5-ef46-4ddd-ac6d-b40f053f19a2)
+
+13. Agora vai aparecer o progresso da sua instalação. 
+
+![Screenshot 2023-06-22 at 23 05 25](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/993ebbd2-20a1-4d10-9fea-d398a141930e)
+
+14. Em seguida essa tela aparecerá avisando o fim da instalação.
+
+![Screenshot 2023-06-22 at 19 40 29](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/8463f957-ae48-4df5-af86-163fefef8c4a)
+
+15. Agora retorne na pasta onde copiou as pastas `INSTALLER` e `PATCH` e, abra a pasta `PATCH`. Em seguida execute o `Adobe Photoshop 24.2 [K].pkg`.
 
