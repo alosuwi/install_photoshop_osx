@@ -4,7 +4,7 @@
 
 - Aqui vai um passo a passo de como prosseguir com a instalação sem nenhum erro.
 
-## PAASO A PASSO
+## PAsSO A PASSO
 
 1.  Depois de baixado a imagem `(.dmg)`, de dois clicks e a imagem abrirá automaticamente uma janela.
 
