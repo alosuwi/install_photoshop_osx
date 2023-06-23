@@ -80,8 +80,18 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 23 17 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/dc35b6a5-4150-42ce-ac01-ba73346cf41d)
 
-17. Agora selecione o `HD` onde você instalou o `Photoshop`.
+17. Agora selecione o `HD` onde você instalou o `Photoshop` e, click em `Install`.
 
 ![Screenshot 2023-06-22 at 23 17 52](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/510400fe-ef7d-444e-83e7-132c7ca5be25)
 
-18. 
+18. Novamente pedirá sua senha de `ADM` para poder porsseguir.
+
+![Screenshot 2023-06-22 at 23 18 05](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/bea1715f-2661-46d3-b246-f5ffd08591a5)
+
+19. Após isso aparecerá uma tela igual a essa confirmando a instalação e, você poderá fechar em seguida.
+
+![Screenshot 2023-06-22 at 23 18 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/4542034b-c70e-4084-949e-67813dd5dea5)
+
+20. Agora é só abrir seu Photoshop e aproveitar.
+
+![Screenshot 2023-06-22 at 23 20 32](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/c312585c-84aa-4008-af58-1f32798e3865)
