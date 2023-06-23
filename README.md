@@ -26,7 +26,7 @@
 
 ![Screenshot 2023-06-22 at 22 18 39](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/db1cd1aa-5706-447a-8673-a0c9fa8a38a9)
 
-5. Aqui você selecionará seu HD onde instalará o programa.
+5. Aqui você selecionará seu `HD` onde instalará o programa.
 
 ![Screenshot 2023-06-22 at 22 18 57](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/8967ad10-8036-45d0-972e-047f8d6bac7c)
 
@@ -46,7 +46,7 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 22 44 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/e55f1a73-430b-400d-97fe-7d9923fb1ab8)
 
-9. Agora abra o local onde você copiou a pasta `INSTALLER` e `PATCH`, abra a pasta `INSTALLER` e arraste o `install` para o terminal, junto com o comando que digitou no passo anterior. Entâo você pressiona enter e digita sua senha.
+9. Agora abra o local onde você copiou a pasta `INSTALLER` e `PATCH`, abra a pasta `INSTALLER` e arraste o `install` para o terminal, junto com o comando que digitou no passo anterior. Então você pressiona enter e digita sua senha.
 
 ![Screenshot 2023-06-22 at 22 50 30](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/1190933f-3271-4147-a7fe-30b590b2aba5)
 
@@ -64,7 +64,7 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 23 00 50](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/231ac59a-56b7-4252-b53c-a986bdbdc364)
 
-12. Em seguida, você seleciona seu idioma e click em continue. Nesse momento eu desliguei minha internet.
+12. Em seguida, você seleciona seu idioma e de clique em continue. Nesse momento eu desliguei minha internet.
 
 ![Screenshot 2023-06-22 at 22 54 43](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/38441fd5-ef46-4ddd-ac6d-b40f053f19a2)
 
