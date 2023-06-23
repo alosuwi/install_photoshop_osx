@@ -72,8 +72,12 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 19 40 29](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/8463f957-ae48-4df5-af86-163fefef8c4a)
 
-15. Agora retorne na pasta onde copiou as pastas `INSTALLER` e `PATCH` e, abra a pasta `PATCH`. Em seguida execute o `Adobe Photoshop 24.2 [K].pkg`.
+15. Agora retorne na pasta onde copiou as pastas `INSTALLER` e `PATCH` e, abra a pasta `PATCH`. Em seguida execute o `Adobe Photoshop 24.2 [K].pkg`, e click em continue.
 
 ![Screenshot 2023-06-22 at 23 17 30](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/0c21720d-052f-4165-a4b5-b36b82e868a7)
 
-16. 
+16. Agora click em continue novamente.
+
+![Screenshot 2023-06-22 at 23 17 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/dc35b6a5-4150-42ce-ac01-ba73346cf41d)
+
+17. 
