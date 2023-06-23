@@ -4,7 +4,11 @@
 
 - Aqui vai um passo a passo de como prosseguir com a instalação sem nenhum erro.
 
-## PAsSO A PASSO
+## 🚨 ATENÇÃO SE VOCÊ ESTIVER ESSE ERRO, SIGA O TUTORIAL ABAIXO 🚨
+
+![Screenshot 2023-06-23 at 18 28 27](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/68810fc0-68d0-4323-bbae-aae67f647f63)
+
+### PASSO A PASSO
 
 1.  Depois de baixado a imagem `(.dmg)`, de dois clicks e a imagem abrirá automaticamente uma janela.
 
