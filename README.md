@@ -80,4 +80,8 @@ sudo xattr -cr
 
 ![Screenshot 2023-06-22 at 23 17 41](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/dc35b6a5-4150-42ce-ac01-ba73346cf41d)
 
-17. 
+17. Agora selecione o `HD` onde você instalou o `Photoshop`.
+
+![Screenshot 2023-06-22 at 23 17 52](https://github.com/carlospelegrin/install_photoshop_osx/assets/88504218/510400fe-ef7d-444e-83e7-132c7ca5be25)
+
+18. 
